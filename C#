@@ -1,0 +1,117 @@
+using System;
+// 2021-03-23 수업
+namespace ConsoleApp0323
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            //long longNumber = 2147483647L + 2147483647L;
+            //int intNumber = (int)longNumber;
+            //Console.WriteLine(intNumber);
+
+            //long longNumber = 52273;
+            //int intNumber = (int)longNumber;
+            //Console.WriteLine(intNumber);
+
+            //long longNumber = 2147483647L + 2147483647L;
+            //int longToint = (int)longNumber;
+            //Console.WriteLine(longToint);
+            //double doubleNumber = 52.27310332;
+            //int doubleToint = (int)doubleNumber;
+            //Console.WriteLine(doubleToint);
+
+            //Console.WriteLine(int.Parse("52"));
+            //Console.WriteLine(long.Parse("273"));
+            //Console.WriteLine(float.Parse("52.273"));
+            //Console.WriteLine(double.Parse("103.32"));
+
+            //Console.WriteLine(int.Parse("52").GetType());
+            //Console.WriteLine(long.Parse("273").GetType());
+            //Console.WriteLine(float.Parse("52.273").GetType());
+            //Console.WriteLine(double.Parse("103.32").GetType());
+
+            //Console.WriteLine(int.Parse("abc"));
+
+            //Console.WriteLine(int.Parse("52.273"));
+
+            //Console.WriteLine((52).ToString());
+            //Console.WriteLine((52.273).ToString());
+            //Console.WriteLine(('a'+'b').ToString());
+            //Console.WriteLine((true).ToString());
+            //Console.WriteLine((false).ToString());
+
+            //Console.WriteLine((52).ToString().GetType());
+            //Console.WriteLine((52.273).ToString().GetType());
+            //Console.WriteLine(('a').ToString().GetType());
+            //Console.WriteLine((true).ToString().GetType());
+            //Console.WriteLine((false).ToString().GetType());
+
+
+            //double number = 52.273103;
+            //Console.WriteLine(number.ToString("0.0"));
+            //Console.WriteLine(number.ToString("0.00"));
+            //Console.WriteLine(number.ToString("0.000"));
+            //Console.WriteLine(number.ToString("0.0000"));
+
+            //Console.WriteLine(52 + 273);
+            //Console.WriteLine("52" + 273);
+            //Console.WriteLine(52 + "273");
+            //Console.WriteLine("52" + "273");
+
+            //int output1 = int.MinValue;
+            //int output2 = -256;
+
+            //Console.WriteLine(-output1);
+            //Console.WriteLine(-output2);
+            //Console.WriteLine(-(-512));
+
+
+            //P.123 문제11,12,13
+
+            //(문제11)----------------------------------
+            //입력구간
+            //Console.Write("inch;");
+            //int i = int.Parse(Console.ReadLine());
+
+            //계산구간
+            //double d = i * 2.54;
+
+            //출력구간
+            //Console.WriteLine(i + "inch= " + d + "cm");
+
+            //(문제12)----------------------------------
+            //입력구간
+            Console.Write("kg;");
+            int i = int.Parse(Console.ReadLine());  //변수선언 및 자료형변환
+
+            //계산구간
+            double d = i * 2.20462262;  //변수선언 및 계산  
+
+            //출력구간
+            Console.WriteLine(i + "kg= " + d + "pound");
+
+
+
+            //(문제13)-----------------------------------
+            //입력구간
+            //Console.Write("원의 반지름:");
+            //int i = int.Parse(Console.ReadLine()); //ReadLine은 문자열이기떄문에 자료형으로 바꿔줘야한다.그래서 .Parse를 같이 사용한다.
+
+            ////계산구간
+            //double PI = 3.14;
+            //var area = i * i * PI;   //원 넓이 구하는 공식
+            //var Round = 2 * PI * i;   //원 둘레 구하는 공식
+
+            ////출력구간
+            //Console.WriteLine("원의넓이: " + area);
+            //Console.WriteLine("원의둘레: " + Round);
+
+        }
+
+
+
+
+    }
+}
