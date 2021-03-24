@@ -115,3 +115,50 @@ namespace ConsoleApp0323
 
     }
 }
+
+ Console.WriteLine("숫자입력:");
+            int input = int.Parse(Console.ReadLine());
+
+            if (input % 2 == 0)
+            {
+                Console.WriteLine("짝수");
+            }
+            if (input % 2 == 1)
+            {
+                Console.WriteLine("홀수");
+            }
+
+            Console.WriteLine(DateTime.Now.AddYears(-1));
+            Console.WriteLine(DateTime.Now.AddMonths(5));
+            Console.WriteLine(DateTime.Now.AddDays(-1));
+            Console.WriteLine(DateTime.Now.AddHours(-1));
+            Console.WriteLine(DateTime.Now.AddMinutes(-1));
+            Console.WriteLine(DateTime.Now.AddSeconds(-1));
+
+            if (DateTime.Now.Hour < 12)
+            {
+                Console.WriteLine("오전Dath");
+            }
+            if (12 <= DateTime.Now.Hour)
+            {
+                Console.WriteLine("오후Dath");
+            }
+
+
+            //-----------------------중첩 조건문---------------------------//
+            if (DateTime.Now.Hour < 10)
+            {
+                Console.WriteLine("아침먹을 시간");
+            }
+            else
+            {
+                if (DateTime.Now.Hour < 15)
+                {
+                    Console.WriteLine("점심먹을 시간입니다.");
+                }
+                else
+                {
+                    Console.WriteLine("저녁먹을 시간입니다.");
+                }
+            }
+
