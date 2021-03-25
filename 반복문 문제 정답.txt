@@ -1,0 +1,129 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Exercise4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            #region 연습문제 10
+
+            ////for 문 while 문으로 전환
+            //int i = 0;
+            //while (i < 10)
+            //{
+            //    Console.Write("출력");
+            //    i++;
+            //}
+
+            #endregion
+
+            #region 연습문제 11
+
+            ////피라미드 모양
+            //for (int i = 0; i < 8; i++)
+            //{
+            //    for (int j = 7; j >= i; j--)
+            //    {
+            //        Console.Write(" ");
+            //    }
+
+            //    for (int j = 0; j < 2 * i + 1; j++)
+            //    {
+            //        Console.Write("*");
+            //    }
+
+            //    Console.WriteLine();
+            //}
+
+            #endregion
+
+            #region 연습문제 12
+
+            //// 최대값 변수 최소값 대입
+            //// 최소값 변수 최대값 대입
+            //int max = int.MinValue;
+            //int min = int.MaxValue;
+            //int count = 0;
+
+            //while (count < 5)
+            //{
+            //    Console.Write("숫자를 입력해주세요: ");
+            //    int input = int.Parse(Console.ReadLine());
+            //    if (input < min)
+            //    {
+            //        min = input;
+            //    }
+            //    if (input > max)
+            //    {
+            //        max = input;
+            //    }
+            //    count++;
+            //}
+
+            //for (int i = 0; i < 5; i++)
+            //{
+            //    Console.Write("숫자를 입력해주세요: ");
+            //    int input = int.Parse(Console.ReadLine());
+            //    if (input < min)
+            //    {
+            //        min = input;
+            //    }
+            //    if (input > max)
+            //    {
+            //        max = input;
+            //    }
+            //}
+
+            //Console.WriteLine("가장 큰 수 : " + max);
+            //Console.WriteLine("가장 작은 수 : " + min);
+
+            #endregion
+
+            #region 연습문제 13
+
+            // 첫 번째 수열 입력
+            string start = "1";
+
+            // 계산 시작
+            for (int i = 0; i < 20; i++)
+            {
+                // 출력
+                Console.WriteLine((i + 1) + "번째: " + start);
+
+                // 읽고 말하기 수열 계산
+                string end = "";
+                //말하기 수열 연속자리 비교를 위한 변수
+                char number = start[0];
+                //각각의 숫자 세기 위해
+                int count = 0;
+                for (int j = 0; j < start.Length; j++)
+                {
+                    //연속 숫자가 다르면 end 에 문자열 붙이고
+                    //num에 다른 숫자를 대입
+                    //횟수(count)는 여기서 부터 시작이므로 1 로 초기화
+                    if (number != start[j])
+                    {
+                        end = end + number + count;
+                        number = start[j];
+                        count = 1;
+                    }
+                    else   //연속 숫자의 갯수를 센다
+                    {
+                        count++;
+                    }
+                }
+                end = end + number + count;
+
+                // 다음 단계 준비
+                start = end;
+            }
+
+            #endregion
+        }
+    }
+}
