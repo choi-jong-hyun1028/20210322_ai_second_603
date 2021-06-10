@@ -1,0 +1,7 @@
+C:\Users\KB\Documents\GitHub\20201-06-09\basic0609\basic0609\bin\Debug\basic0609.exe.config
+C:\Users\KB\Documents\GitHub\20201-06-09\basic0609\basic0609\bin\Debug\basic0609.exe
+C:\Users\KB\Documents\GitHub\20201-06-09\basic0609\basic0609\bin\Debug\basic0609.pdb
+C:\Users\KB\Documents\GitHub\20201-06-09\basic0609\basic0609\obj\Debug\basic0609.csprojAssemblyReference.cache
+C:\Users\KB\Documents\GitHub\20201-06-09\basic0609\basic0609\obj\Debug\basic0609.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\GitHub\20201-06-09\basic0609\basic0609\obj\Debug\basic0609.exe
+C:\Users\KB\Documents\GitHub\20201-06-09\basic0609\basic0609\obj\Debug\basic0609.pdb

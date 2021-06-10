@@ -1,0 +1,7 @@
+C:\Users\KB\Documents\GitHub\20201-06-09\class0610\class0610\bin\Debug\class0610.exe.config
+C:\Users\KB\Documents\GitHub\20201-06-09\class0610\class0610\bin\Debug\class0610.exe
+C:\Users\KB\Documents\GitHub\20201-06-09\class0610\class0610\bin\Debug\class0610.pdb
+C:\Users\KB\Documents\GitHub\20201-06-09\class0610\class0610\obj\Debug\class0610.csprojAssemblyReference.cache
+C:\Users\KB\Documents\GitHub\20201-06-09\class0610\class0610\obj\Debug\class0610.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\GitHub\20201-06-09\class0610\class0610\obj\Debug\class0610.exe
+C:\Users\KB\Documents\GitHub\20201-06-09\class0610\class0610\obj\Debug\class0610.pdb
