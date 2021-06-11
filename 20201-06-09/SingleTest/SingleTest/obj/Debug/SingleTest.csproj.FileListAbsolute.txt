@@ -1,0 +1,7 @@
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\SingleTest\SingleTest\bin\Debug\SingleTest.exe.config
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\SingleTest\SingleTest\bin\Debug\SingleTest.exe
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\SingleTest\SingleTest\bin\Debug\SingleTest.pdb
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\SingleTest\SingleTest\obj\Debug\SingleTest.csprojAssemblyReference.cache
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\SingleTest\SingleTest\obj\Debug\SingleTest.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\SingleTest\SingleTest\obj\Debug\SingleTest.exe
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\SingleTest\SingleTest\obj\Debug\SingleTest.pdb

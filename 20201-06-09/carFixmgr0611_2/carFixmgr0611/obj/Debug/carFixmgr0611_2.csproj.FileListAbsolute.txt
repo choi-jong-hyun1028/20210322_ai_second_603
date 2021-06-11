@@ -1,0 +1,15 @@
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\carFixmgr0611_2\carFixmgr0611\bin\Debug\carFixmgr0611.exe.config
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\carFixmgr0611_2\carFixmgr0611\bin\Debug\carFixmgr0611.exe
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\carFixmgr0611_2\carFixmgr0611\bin\Debug\carFixmgr0611.pdb
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\carFixmgr0611_2\carFixmgr0611\bin\Debug\CxFlatUI.dll
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\carFixmgr0611_2\carFixmgr0611\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\carFixmgr0611_2\carFixmgr0611\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\carFixmgr0611_2\carFixmgr0611\bin\Debug\SunnyUI.dll
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\carFixmgr0611_2\carFixmgr0611\obj\Debug\carFixmgr0611_2.csprojAssemblyReference.cache
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\carFixmgr0611_2\carFixmgr0611\obj\Debug\carFixmgr0611.Properties.Resources.resources
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\carFixmgr0611_2\carFixmgr0611\obj\Debug\carFixmgr0611.MainForm.resources
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\carFixmgr0611_2\carFixmgr0611\obj\Debug\carFixmgr0611_2.csproj.GenerateResource.cache
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\carFixmgr0611_2\carFixmgr0611\obj\Debug\carFixmgr0611_2.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\carFixmgr0611_2\carFixmgr0611\obj\Debug\carFixmgr0611_2.csproj.CopyComplete
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\carFixmgr0611_2\carFixmgr0611\obj\Debug\carFixmgr0611.exe
+C:\Users\KB\Documents\GitHub\20210322_ai_second_603\20201-06-09\carFixmgr0611_2\carFixmgr0611\obj\Debug\carFixmgr0611.pdb
