@@ -21,3 +21,5 @@ r2.grid(column=0, row=1)
 action = ttk.Button(win, text = "Click Me", command = ok)
 action.grid(column=0, row=2)
 win.mainloop()
+
+20210707

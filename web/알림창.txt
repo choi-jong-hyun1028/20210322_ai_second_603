@@ -15,3 +15,5 @@ textBox_name.bind('<Return>', helloMsg)
 textBox_name.pack()
 
 ws.mainloop()
+
+이렇게 하는 건가?
